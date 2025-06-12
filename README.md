@@ -17,5 +17,8 @@ An Arduino-based proximity alert system that:
 - Buzzer
 - Jumper wires, Breadboard
 
-## 🛠️ Circuit Diagram
+## Circuit Diagram
 ![Circuit Diagram](Image/Proximity-Alert-System.png)
+
+## Working Diagram
+![Working Diagram](Image/Proximity-Alert-System.png)
