@@ -21,7 +21,9 @@ An Arduino-based proximity alert system that:
 ![Circuit Diagram](Image/Proximity-Alert-System.png)
 
 ## Working Diagram
-![Schematic View](Image/Proximity-Alert-System.pdf)
+![Working Diagram](Image/Proximity-Alert-System-Working.png)
+
 
 ## Working Diagram
-![Working Diagram](Image/Proximity-Alert-System.png)
+![Schematic View](Image/Proximity-Alert-System.pdf)
+
