@@ -29,4 +29,4 @@ An Arduino-based proximity alert system that:
 
 ---
 
-> Created by [Shreyash Shrishette]  
+> Created by Shreyash Shrishette
