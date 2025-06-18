@@ -17,6 +17,14 @@ An Arduino-based proximity alert system that:
 - Buzzer
 - Jumper wires, Breadboard
 
+## ⚡ Circuit Connections
+
+| Component       | Arduino Pin |
+|----------------|-------------|
+| TRIG_PIN       | 9           |
+| ECHO_PIN       | 8           |
+| Buzzer (+)     | 10          |
+
 ## Circuit Diagram
 ![Circuit Diagram](Image/Proximity-Alert-System.png)
 
