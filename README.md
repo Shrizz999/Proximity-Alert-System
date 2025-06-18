@@ -1,4 +1,4 @@
-Proximity Alert System (Arduino)
+# Proximity Alert System (Arduino)
 
 An Arduino-based proximity alert system that:
 - Uses an HC-SR04 ultrasonic sensor to measure distance
