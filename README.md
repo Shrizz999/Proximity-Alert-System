@@ -23,8 +23,8 @@ An Arduino-based proximity alert system that:
 |----------------|-------------|
 | TRIG_PIN       | 3           |
 | ECHO_PIN       | 2           |
-| US_SDA         | A4          |
-| US_SCL         | A5          |
+| SDA            | A4          |
+| SCL            | A5          |
 | Buzzer (+)     | 7           |
 
 ## Circuit Diagram
