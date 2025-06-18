@@ -21,9 +21,9 @@ An Arduino-based proximity alert system that:
 
 | Component       | Arduino Pin |
 |----------------|-------------|
-| TRIG_PIN       | 9           |
-| ECHO_PIN       | 8           |
-| Buzzer (+)     | 10          |
+| TRIG_PIN       | 3           |
+| ECHO_PIN       | 2           |
+| Buzzer (+)     | 7           |
 
 ## Circuit Diagram
 ![Circuit Diagram](Image/Proximity-Alert-System.png)
