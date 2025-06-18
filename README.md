@@ -27,3 +27,6 @@ An Arduino-based proximity alert system that:
 ## Schematic View
 ![Schematic View](Image/Proximity-Alert-System.pdf)
 
+---
+
+> Created by [Shreyash Shrishette]  
